@@ -1,5 +1,5 @@
 {
-  "name": "angular2-quickstart-typescript",
+  "name": "angular2-quickstart-typescript-webpack",
   "version": "1.0.0",
   "scripts": {
     "tsc": "tsc",
